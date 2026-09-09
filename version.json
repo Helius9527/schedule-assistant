@@ -1,5 +1,5 @@
 {
-  "version": 12,
-  "note": "v12：悬浮窗改桌面小部件+托盘常驻(点X不再退出)",
-  "url": "https://raw.githubusercontent.com/Helius9527/schedule-assistant/main/schedule_update_v12.zip"
+  "version": 13,
+  "note": "v13：后台定期检查新版本并弹窗+托盘手动检查更新",
+  "url": "https://raw.githubusercontent.com/Helius9527/schedule-assistant/main/schedule_update_v13.zip"
 }
