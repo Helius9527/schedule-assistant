@@ -1,5 +1,5 @@
 {
-  "version": 13,
-  "note": "v13：后台定期检查新版本并弹窗+托盘手动检查更新",
-  "url": "https://raw.githubusercontent.com/Helius9527/schedule-assistant/main/schedule_update_v13.zip"
+  "version": 14,
+  "note": "v14：应用内直接添加日程（+按钮+InputBox调schedule_tool）",
+  "url": "https://raw.githubusercontent.com/Helius9527/schedule-assistant/main/schedule_update_v14.zip"
 }
