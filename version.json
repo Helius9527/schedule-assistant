@@ -1,5 +1,5 @@
 {
-  "version": 11,
-  "note": "v11：新增桌面弹窗会前提醒",
-  "url": "https://raw.githubusercontent.com/Helius9527/schedule-assistant/main/schedule_update_v11.zip"
+  "version": 12,
+  "note": "v12：悬浮窗改桌面小部件+托盘常驻(点X不再退出)",
+  "url": "https://raw.githubusercontent.com/Helius9527/schedule-assistant/main/schedule_update_v12.zip"
 }
