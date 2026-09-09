@@ -1,5 +1,5 @@
 {
-  "version": 8,
-  "note": "v8：字号放大一倍+修复保存失败(IE userData降级)+窗口加大",
-  "url": "https://raw.githubusercontent.com/Helius9527/schedule-assistant/main/schedule_update_v8.zip"
+  "version": 9,
+  "note": "v9：字号缩到0.8倍(正文27px)，窗口864x1024",
+  "url": "https://raw.githubusercontent.com/Helius9527/schedule-assistant/main/schedule_update_v9.zip"
 }
