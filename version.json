@@ -1,5 +1,5 @@
 {
-  "version": 7,
-  "note": "v7：更新器加「是否检查更新」弹窗+强制重装；修复版本号被抬高导致检测不到更新",
-  "url": "https://raw.githubusercontent.com/Helius9527/schedule-assistant/main/schedule_update_v7.zip"
+  "version": 8,
+  "note": "v8：字号放大一倍+修复保存失败(IE userData降级)+窗口加大",
+  "url": "https://raw.githubusercontent.com/Helius9527/schedule-assistant/main/schedule_update_v8.zip"
 }
