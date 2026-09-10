@@ -1,5 +1,5 @@
 {
-  "version": 18,
-  "note": "v18：清理死代码，输入入口统一",
-  "url": "https://raw.githubusercontent.com/Helius9527/schedule-assistant/main/schedule_update_v18.zip"
+  "version": 19,
+  "note": "v19：清理完毕，页面输入框直连宿主写入data.js",
+  "url": "https://raw.githubusercontent.com/Helius9527/schedule-assistant/main/schedule_update_v19.zip"
 }
