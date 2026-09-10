@@ -1,5 +1,5 @@
 {
-  "version": 19,
-  "note": "v19：清理完毕，页面输入框直连宿主写入data.js",
-  "url": "https://raw.githubusercontent.com/Helius9527/schedule-assistant/main/schedule_update_v19.zip"
+  "version": 20,
+  "note": "v20：顶栏原生TextBox输入-彻底修好添加",
+  "url": "https://raw.githubusercontent.com/Helius9527/schedule-assistant/main/schedule_update_v20.zip"
 }
