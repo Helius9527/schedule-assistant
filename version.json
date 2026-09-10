@@ -1,5 +1,5 @@
 {
-  "version": 23,
-  "note": "v23：修COM桥接阻塞-ThreadPool异步",
-  "url": "https://raw.githubusercontent.com/Helius9527/schedule-assistant/main/schedule_update_v23.zip"
+  "version": 24,
+  "note": "v25：临时文件传text，根治COM marshal错误",
+  "url": "https://raw.githubusercontent.com/Helius9527/schedule-assistant/main/schedule_update_v24.zip"
 }
